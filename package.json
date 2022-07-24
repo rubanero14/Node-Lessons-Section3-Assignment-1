@@ -1,0 +1,19 @@
+{
+  "name": "node-lessons-section3-assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubanero14/Node-Lessons-Section3-Assignment-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubanero14/Node-Lessons-Section3-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/rubanero14/Node-Lessons-Section3-Assignment-1#readme"
+}
